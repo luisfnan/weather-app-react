@@ -1,0 +1,12 @@
+.daily-item {
+    background-color: #fff;
+    display: inline-block;
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+    transform: translate(5px, 5px);
+}
+
+.icon-small {
+    transform: scale(0.2);
+}
